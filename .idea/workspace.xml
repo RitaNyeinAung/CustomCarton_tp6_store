@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1803936f-01e6-4376-9cba-bd45d8b318d5" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1zLthsNsLr7EHM1HleH4GwH8nCZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/phpstudy_pro/WWW/carton/new" />
+    <property name="ts.external.directory.path" value="D:\PhpStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目\定制\CustomCarton_tp6_agent\src\components\home\offer" />
+      <recent name="D:\项目\定制\CustomCarton_tp6_agent\src\components\home\offer\children" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\项目\定制\CustomCarton_tp6_agent\src\components\home\offer\children" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1803936f-01e6-4376-9cba-bd45d8b318d5" name="默认的" comment="" />
+      <created>1633939318721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633939318721</updated>
+      <workItem from="1633939319845" duration="2427000" />
+      <workItem from="1634010585926" duration="58000" />
+      <workItem from="1634282024137" duration="2424000" />
+      <workItem from="1634525533499" duration="56000" />
+      <workItem from="1634543985627" duration="2196000" />
+      <workItem from="1634615452140" duration="1390000" />
+      <workItem from="1634715374441" duration="1190000" />
+      <workItem from="1634868864679" duration="3191000" />
+      <workItem from="1635305851630" duration="2443000" />
+      <workItem from="1635761047384" duration="731000" />
+      <workItem from="1635921168556" duration="5122000" />
+      <workItem from="1636009139660" duration="608000" />
+      <workItem from="1636023642145" duration="601000" />
+      <workItem from="1636092094416" duration="1974000" />
+      <workItem from="1636355222756" duration="1190000" />
+      <workItem from="1636423683735" duration="620000" />
+      <workItem from="1640764739610" duration="2846000" />
+      <workItem from="1641527682411" duration="13971000" />
+      <workItem from="1641567747265" duration="1790000" />
+      <workItem from="1641798020637" duration="1684000" />
+      <workItem from="1641801242753" duration="7387000" />
+      <workItem from="1641869622184" duration="5491000" />
+      <workItem from="1641977421172" duration="2773000" />
+      <workItem from="1642044235692" duration="324000" />
+      <workItem from="1642044744900" duration="2538000" />
+      <workItem from="1642050404439" duration="432000" />
+      <workItem from="1642052907995" duration="8868000" />
+      <workItem from="1642130311393" duration="2057000" />
+      <workItem from="1642132544039" duration="17000" />
+      <workItem from="1642132695203" duration="8479000" />
+      <workItem from="1642660510356" duration="5850000" />
+      <workItem from="1642736081468" duration="5792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/home/offer/quotationStore.vue</url>
+          <line>96</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
