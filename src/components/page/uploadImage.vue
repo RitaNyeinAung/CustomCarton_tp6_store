@@ -21,7 +21,7 @@
             </div>
             <!-- 点击上传 -->
             <div class="z_info" v-if="!size">
-                <img src="../../assets/2-上传图片_03.jpg" alt="">
+                <img src="../../assets/uploadImage_img.jpg" alt="">
             </div>
             <div class="s_btn" v-show="!size">
                 <span class="click_btn" @click="addPic">点击选择图片</span>

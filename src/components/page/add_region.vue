@@ -137,7 +137,7 @@ export default {
                                     float: left;
                                     width: 13px;
                                     height: 13px;
-                                    background: url(../../assets/箭头.png) no-repeat;
+                                    background: url(../../assets/backBack_img.png) no-repeat;
                                     background-size:13px 13px; 
                                     transform:rotate(270deg);
                                     -ms-transform:rotate(270deg); 
